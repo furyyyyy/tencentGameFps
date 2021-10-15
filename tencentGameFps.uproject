@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8B8543F4-4E22-5104-C45B-5FACF8C76B1A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "tencentGameFps",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
